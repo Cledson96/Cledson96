@@ -1,4 +1,7 @@
-### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">   
+
+**_Selecione outro idioma:_ [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md)**
+##
 
 <a href="https://discord.gg/Rt9pCwgM">
   <img align="left" alt="Cledson Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -17,7 +20,7 @@ I love working with engineering and creating new ideas, and as a developer, I ha
 I'm always looking for new challenges and exciting projects to work on, so please don't hesitate to get in touch if you need a reliable and experienced developer for your next project.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif" width="500" height="320" />
   
   - 🔭 My lastest project [Drivent(Front-end)](https://github.com/Grupo-Debs-C/drivent-frontend)!
 
