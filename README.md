@@ -1,6 +1,6 @@
 ### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">   
 
-**_Selecione outro idioma:_ [português](https://github.com/daniel-bernardino747/daniel-bernardino747/blob/main/README-PT.md)**
+**_Selecione outro idioma:_ [português](https://github.com/Cledson96/Cledson96/blob/main/README-PT.md)**
 ##
 
 <a href="https://discord.gg/Rt9pCwgM">
