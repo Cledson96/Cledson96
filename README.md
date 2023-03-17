@@ -1,4 +1,4 @@
-### hey there 
+### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
 <a href="https://discord.gg/Rt9pCwgM">
   <img align="left" alt="Cledson Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -52,9 +52,16 @@ If you like what I do, how about we chat and discuss more about it? 🥺👉👈
 
 
 
+
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=cledson96&show_icons=true&theme=gotham" alt="cledson96" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledson96&layout=compact&theme=gotham" alt="cledson96" height="165" />
+</p>
+
+
+
 
 
 
