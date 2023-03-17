@@ -24,11 +24,11 @@ Estou sempre em busca de novos desafios e projetos empolgantes para trabalhar, e
   
   - 🔭 Meu ultimo projeto [Drivent(Front-end)](https://github.com/Grupo-Debs-C/drivent-frontend)!
 
-- 🌱 Atualmente estou estudando **C++ and PhP**
+- 🌱 Atualmente estou estudando **C++ e PhP**
 
-- 💬  Me pergunte sobre **Javascript, Typescript, React and NodeJS**
+- 💬  Me pergunte sobre **Javascript, Typescript, React e NodeJS**
 
-- ⚡ Curiosidadet **I love making projects with Arduino.**
+- ⚡ Curiosidadet **Eu amo projetos com Arduino**
 
 - 💼 Algum trabalho freelance? Por favor, entre em contato, [email](mailto:cledson1996@gmail.com) :)
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar;
