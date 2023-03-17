@@ -1,16 +1,61 @@
-### Hi there 👋
+### hey there 
 
-<!--
-**Cledson96/Cledson96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://discord.gg/Rt9pCwgM">
+  <img align="left" alt="Cledson Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="www.linkedin.com/in/cledson-santos">
+  <img align="left" alt="Cledson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hello, I'm Cledson Santos, a self-taught full-stack web developer and freelance software engineer from Brazil. I'm passionate about turning ideas into reality with elegant interfaces and a great user experience. Since I was a child, I've had a special interest in discovering how things work, including dismantling my toys but unfortunately not always being able to put them back together.
+
+I love working with engineering and creating new ideas, and as a developer, I have a strong work ethic and take great care in the quality of the code and the architecture of each project I work on.
+
+I'm always looking for new challenges and exciting projects to work on, so please don't hesitate to get in touch if you need a reliable and experienced developer for your next project.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+  - 🔭 My lastest project [Drivent(Front-end)](https://github.com/Grupo-Debs-C/drivent-frontend)!
+
+- 🌱 I’m currently learning **C++ and PhP**
+
+- 💬 Ask me about **Javascript, Typescript, React and NodeJS**
+
+- ⚡ Fun fact **I love making projects with Arduino.**
+
+- 💼 any freelance work? do reach, [email](mailto:cledson1996@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+If you like what I do, how about we chat and discuss more about it? 🥺👉👈
+
+<a href="https://wa.me/41997975542" target="_blank"><img src="https://pousadabomsono.files.wordpress.com/2021/12/whatsapp-logo-png-sem-fundo-transparente.png" alt="WhatsApp" width="50" ></a>
+
+
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
