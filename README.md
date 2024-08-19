@@ -1,68 +1,48 @@
-### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">   
 
-**_Selecione outro idioma:_ [português](https://github.com/Cledson96/Cledson96/blob/main/README-PT.md)**
+**_Select another language:_ [Português](https://github.com/Cledson96/Cledson96/blob/main/README-PT.md)**
 ##
 
-<a href="https://discord.gg/Rt9pCwgM">
-  <img align="left" alt="Cledson Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+### hey there  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">   
 
-<a href="www.linkedin.com/in/cledson-santos">
-  <img align="left" alt="Cledson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+Hello, everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
-<br />
+I'm Cledson Santos, a full-stack web developer and freelance software engineer from Brazil. I'm passionate about turning ideas into reality through elegant interfaces and exceptional user experiences. I'm always seeking new challenges to enhance my skills and contribute with innovative solutions.
 
-Hello, I'm Cledson Santos, a self-taught full-stack web developer and freelance software engineer from Brazil. I'm passionate about turning ideas into reality with elegant interfaces and a great user experience. Since I was a child, I've had a special interest in discovering how things work, including dismantling my toys but unfortunately not always being able to put them back together.
+Since I was a child, I've been curious about how things work, often disassembling my toys to explore their inner workings (even though I couldn't always put them back together). This passion for understanding and creating drives my software development journey.
 
-I love working with engineering and creating new ideas, and as a developer, I have a strong work ethic and take great care in the quality of the code and the architecture of each project I work on.
+I love working with engineering and creating new ideas, always focusing on code quality and architecture in every project I'm involved in. If you're looking for a reliable and experienced developer for your next project, I'm here to help!
 
-I'm always looking for new challenges and exciting projects to work on, so please don't hesitate to get in touch if you need a reliable and experienced developer for your next project.
+<img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif" width="450" height="300" />
 
-
-  <img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif" width="500" height="320" />
-  
-  - 🔭 My lastest project [Drivent(Front-end)](https://github.com/Grupo-Debs-C/drivent-frontend)!
-
-- 🌱 I’m currently learning **C++ and PhP**
-
-- 💬 Ask me about **Javascript, Typescript, React and NodeJS**
-
-- ⚡ Fun fact **I love making projects with Arduino.**
-
-- 💼 any freelance work? do reach, [email](mailto:cledson1996@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-If you like what I do, how about we chat and discuss more about it? 🥺👉👈
-
+- 🔭 My latest project: UniFapi (FullStack)
+- 🌱 Currently learning C++ and Next.js
+- 💬 Ask me about JavaScript, TypeScript, React, Node.js, Python
+- ⚡ Fun fact: I'm passionate about Arduino projects
+- 💼 Looking for freelance work? Get in touch :)
+- 💬 Feel free to ask me anything! I'm happy to help.
+<br>
+🛠 Languages and Tools:
+<br>
+<br>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
+<br>
+If you like what I do, let's chat and discuss more about it! 🥺👉👈
+<br>
 <a href="https://wa.me/41997975542" target="_blank"><img src="https://pousadabomsono.files.wordpress.com/2021/12/whatsapp-logo-png-sem-fundo-transparente.png" alt="WhatsApp" width="50" ></a>
-
-
-
-
-
-
-📈 my github stats
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=cledson96&show_icons=true&theme=gotham" alt="cledson96" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cledson96&layout=compact&theme=gotham" alt="cledson96" height="165" />
-</p>
-
 
 
 
